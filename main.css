@@ -68,7 +68,7 @@ header.hero h2 {
 header.hero h3 {
     color: #3f4777;
 }
-/* changed from container to .container-center */
+
 .container-center {
     padding: 40px;
     width: 100%;
@@ -84,11 +84,11 @@ header.hero h3 {
     background-color: #b4c6f0;
     padding: 40px;
 }
-/* changed from container to .container-center */
+
 .container-center {
     text-align: center;
 }
-/* changed from container to .container-center */
+
 .container-center div.text-box {
     display: inline-block;
     width: 100%;
