@@ -6,7 +6,7 @@ body {
     font-size: 10px;
     font-family: Tahoma, Arial;
 }
-
+/* Changed from div to nav for semantic HTML */
 nav.menu {
     width: 100%;
     background-color: #4d5791;
@@ -15,13 +15,14 @@ nav.menu {
 }
 
 nav.menu ul,
+/* changed from div to nav */ 
 nav.menu ul li {
     margin: 0;
     padding: 0 ;
     list-style: none;
     display: inline-block;
 }
-
+/* changed from div to nav */ 
 nav.menu ul li a {
     display: block;
     padding: 0 20px;
@@ -31,12 +32,12 @@ nav.menu ul li a {
     color: #fff;
     margin: 0;
 }
-
+/* changed from div to nav */ 
 nav.menu ul li a:hover  {
     background-color: white;
     color: #4d5791;
 }
-
+/* changed from div to header */ 
 header.hero {
     height: 350px;
     background-color: #b4c6f0;
@@ -46,28 +47,28 @@ header.hero {
     background-position: center bottom;
     padding-top: 40px;
 }
-
+/* changed from div to header */
 header.hero h1,
 header.hero h2,
 header.hero h3 {
     text-align: center;
     margin: 0;
 }
-
+/* changed from div to header */
 header.hero h1 {
     color: #fff;
     font-size: 4.2em;
     margin-bottom: 20px;
 }
-
+/* changed from div to header */
 header.hero h2 {
     color: #4d5791;
 }
-
+/* changed from div to header */
 header.hero h3 {
-    color: #4d5791;
+    color: #3f4777;
 }
-
+/* changed from container to .container-center */
 .container-center {
     padding: 40px;
     width: 100%;
@@ -83,11 +84,11 @@ header.hero h3 {
     background-color: #b4c6f0;
     padding: 40px;
 }
-
+/* changed from container to .container-center */
 .container-center {
     text-align: center;
 }
-
+/* changed from container to .container-center */
 .container-center div.text-box {
     display: inline-block;
     width: 100%;
