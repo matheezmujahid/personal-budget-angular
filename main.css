@@ -68,7 +68,7 @@ header.hero h3 {
     color: #4d5791;
 }
 
-.container {
+.container-center {
     padding: 40px;
     width: 100%;
 }
@@ -84,11 +84,11 @@ header.hero h3 {
     padding: 40px;
 }
 
-.container center {
+.container-center {
     text-align: center;
 }
 
-.container div.text-box {
+.container-center div.text-box {
     display: inline-block;
     width: 100%;
     max-width: 340px;
@@ -97,7 +97,7 @@ header.hero h3 {
 }
 
 @media screen and (min-width: 768px) {
-    .container .div.text-box {
+    .container-center .div.text-box {
         margin: 10px;
     }
 }
