@@ -48,7 +48,8 @@ header.hero {
 }
 
 header.hero h1,
-header.hero h2 {
+header.hero h2,
+header.hero h3 {
     text-align: center;
     margin: 0;
 }
@@ -60,6 +61,10 @@ header.hero h1 {
 }
 
 header.hero h2 {
+    color: #4d5791;
+}
+
+header.hero h3 {
     color: #4d5791;
 }
 
