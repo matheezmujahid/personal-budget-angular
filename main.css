@@ -89,7 +89,7 @@ header.hero h3 {
     text-align: center;
 }
 
-.container-center div.text-box {
+.container-center article.text-box {
     display: inline-block;
     width: 100%;
     max-width: 340px;
