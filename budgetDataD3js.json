@@ -1,0 +1,32 @@
+{
+    "myBudget": [
+        {
+            "title": "Food Order",
+            "budget": 60
+        },
+        {
+            "title": "Rent",
+            "budget": 250
+        },
+        {
+            "title": "Clothing",
+            "budget": 90
+        },
+        {
+            "title": "Vacation",
+            "budget": 60
+        },
+        {
+            "title": "Education",
+            "budget": 45
+        },
+        {
+            "title": "Rental Vehicle",
+            "budget": 40
+        },
+        {
+            "title": "Mobile EMI",
+            "budget": 45
+        }
+    ]
+}

@@ -2,31 +2,31 @@
     "myBudget": [
         {
             "title": "Eat out",
-            "budget": 60
+            "budget": 100
         },
         {
             "title": "Rent",
-            "budget": 250
+            "budget": 200
         },
         {
             "title": "Grocery",
-            "budget": 120
+            "budget": 115
         },
         {
             "title": "Savings",
-            "budget": 20
+            "budget": 80
         },
         {
             "title": "Maintenance",
-            "budget": 45
+            "budget": 55
         },
         {
             "title": "Entertainment",
-            "budget": 15
+            "budget": 45
         },
         {
             "title": "OtherExpenses",
-            "budget": 15
+            "budget": 40
         }
     ]
 }
