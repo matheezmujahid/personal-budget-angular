@@ -6,18 +6,22 @@
   "scripts": {
     "start": "node server.js"    
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/matheezmujahid/personal-budget.git"
   },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/matheezmujahid/personal-budget/issues"
   },
+  
   "homepage": "https://github.com/matheezmujahid/personal-budget#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
 }
+
