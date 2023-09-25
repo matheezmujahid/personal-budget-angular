@@ -23,7 +23,7 @@ nav.menu ul li {
     display: inline-block;
 }
 /* changed from div to nav */ 
-nav.menu ul li a {
+div.menu ul li a {
     display: block;
     padding: 0 20px;
     line-height: 44px;
@@ -33,12 +33,12 @@ nav.menu ul li a {
     margin: 0;
 }
 /* changed from div to nav */ 
-nav.menu ul li a:hover  {
-    background-color: white;
+div.menu ul li a:hover  {
+    background-color: rgb(7, 7, 7);
     color: #4d5791;
 }
 /* changed from div to header */ 
-header.hero {
+div.hero {
     height: 350px;
     background-color: #b4c6f0;
     background-image: url('/bg.png');
@@ -48,9 +48,9 @@ header.hero {
     padding-top: 40px;
 }
 /* changed from div to header */
-header.hero h1,
-header.hero h2,
-header.hero h3 {
+div.hero h1,
+div.hero h2,
+div.hero h3 {
     text-align: center;
     margin: 0;
 }
